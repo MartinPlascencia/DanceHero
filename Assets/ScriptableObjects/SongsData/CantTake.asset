@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 836e4f908a4c1ce459dc5ee367a4f6ed, type: 3}
-  m_Name: YouMakeMeFeel
+  m_Name: CantTake
   m_EditorClassIdentifier: Assembly-CSharp::SongData
-  songName: you_make_me_feel
-  animationName: JazzDancing
+  songName: cant_take_my_eyes
+  animationName: RunningDance
+  notesConfig: {fileID: 4900000, guid: e0e865f9bf8d56b4689c5ce7427c4d7c, type: 3}
+  speed: 400
